@@ -1,0 +1,21 @@
+.tabla{
+    font-size: 1.2rem;
+    overflow: scroll;
+}
+
+tr:nth-child(even) {
+    background-color: #ebe7e7;
+    
+}
+
+td, th {
+    text-align: left;
+    padding: 1rem;
+    outline: 3px solid #e0e0e0;
+    width: 1000px;
+    white-space: nowrap;
+}
+
+body{
+    
+}
